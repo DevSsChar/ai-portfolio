@@ -10,7 +10,7 @@ export default function Header() {
     <header className="sticky top-0 z-50 bg-white dark:bg-gray-900 shadow-md">
       <div className="container mx-auto px-4 py-4 flex justify-between items-center">
         <Link href="/" className="text-2xl font-bold text-violet-600 dark:text-violet-400">
-          <span className="font-extrabold">AI</span>Portfolio
+          <span className="font-extrabold">Dev Shah</span>
         </Link>
         
         {/* Mobile menu button */}
